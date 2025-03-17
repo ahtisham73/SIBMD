@@ -2,7 +2,7 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)](https://www.arduino.cc/)[![Sensors](https://img.shields.io/badge/Sensors-Multi%20Parameter-green)](https://en.wikipedia.org/wiki/Sensor)[![I2C](https://img.shields.io/badge/I2C-Protocol-purple)](https://en.wikipedia.org/wiki/I%C2%B2C)[![Battery](https://img.shields.io/badge/Battery-Lithium%20Ion-orange)](https://en.wikipedia.org/wiki/Lithium-ion_battery)[![Proteus](https://img.shields.io/badge/Proteus-Simulation-red)](https://www.labcenter.com/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-![Battery Module](/docs/sim2.jpg)
+![Battery Module](/docs/sim2.JPG)
 
 
 ## 🚀 Overview
