@@ -2,7 +2,7 @@
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)](https://www.arduino.cc/)[![Sensors](https://img.shields.io/badge/Sensors-Multi%20Parameter-green)](https://en.wikipedia.org/wiki/Sensor)[![I2C](https://img.shields.io/badge/I2C-Protocol-purple)](https://en.wikipedia.org/wiki/I%C2%B2C)[![Battery](https://img.shields.io/badge/Battery-Lithium%20Ion-orange)](https://en.wikipedia.org/wiki/Lithium-ion_battery)[![Proteus](https://img.shields.io/badge/Proteus-Simulation-red)](https://www.labcenter.com/)[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-![Battery Module](/docs/Simulation.png)
+![Battery Module](/docs/sim2.jpg)
 
 
 ## 🚀 Overview
@@ -100,13 +100,13 @@ cd SmartInstrumentedBatteryModule
 
 📂 Smart-Instrumented-Battery-Module
 ├── 📜 README.md # Project Overview
+├── 📜 Project Report # Project Overview
 ├── 📂 src # Source Code
-│   ├── SIBM.ino # Main Arduino code
+│   ├── sibmd.ino # Main Arduino code
 ├── 📂 docs # Documentation
-│   ├── circuit_diagram.png # Circuit schematic
+│   ├── sim2.png # Circuit schematic
 ├── 📂 simulation # Simulation Results
-│   ├── Proteus Simulation
-│   ├── voltage_current_display.png
+│   ├── Proteus_Simulation
 ├── LICENSE # License file
 ├── .gitignore # Git ignore file
 
