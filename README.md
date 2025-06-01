@@ -98,6 +98,7 @@ cd SmartInstrumentedBatteryModule
 ```
 ### 📁 Project Files
 
+```
 📂 Smart-Instrumented-Battery-Module
 ├── 📜 README.md # Project Overview
 ├── 📜 Project Report # Project Overview
@@ -109,7 +110,7 @@ cd SmartInstrumentedBatteryModule
 │   ├── Proteus_Simulation
 ├── LICENSE # License file
 ├── .gitignore # Git ignore file
-
+```
 
 ## 📜 References
 - Valoen, L. O., & Nærland, T. (2003). [Battery Management Systems for Large Lithium-Ion Battery Packs](https://ieeexplore.ieee.org/document/1226476).
